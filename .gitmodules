@@ -1,0 +1,24 @@
+[submodule "NuExt.System"]
+	path = NuExt.System
+	url = https://github.com/nu-ext/NuExt.System.git
+[submodule "NuExt.System.Data"]
+	path = NuExt.System.Data
+	url = https://github.com/nu-ext/NuExt.System.Data.git
+[submodule "NuExt.System.Data.SQLite"]
+	path = NuExt.System.Data.SQLite
+	url = https://github.com/nu-ext/NuExt.System.Data.SQLite.git
+[submodule "NuExt.Minimal.Mvvm"]
+	path = NuExt.Minimal.Mvvm
+	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.git
+[submodule "NuExt.Minimal.Mvvm.SourceGenerator"]
+	path = NuExt.Minimal.Mvvm.SourceGenerator
+	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.SourceGenerator.git
+[submodule "NuExt.Minimal.Behaviors.Wpf"]
+	path = NuExt.Minimal.Behaviors.Wpf
+	url = https://github.com/nu-ext/NuExt.Minimal.Behaviors.Wpf.git
+[submodule "NuExt.Minimal.Mvvm.Wpf"]
+	path = NuExt.Minimal.Mvvm.Wpf
+	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.Wpf.git
+[submodule "NuExt.Minimal.Mvvm.MahApps.Metro"]
+	path = NuExt.Minimal.Mvvm.MahApps.Metro
+	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.MahApps.Metro.git

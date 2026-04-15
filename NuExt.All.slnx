@@ -1,0 +1,37 @@
+<Solution>
+  <Folder Name="/Minimal.Behaviors.Wpf/">
+    <Project Path="NuExt.Minimal.Behaviors.Wpf/src/NuExt.Minimal.Behaviors.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/Minimal.Mvvm.MahApps.Metro/">
+    <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/samples/MetroWpfApp/MovieWpfApp.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/src/NuExt.Minimal.Mvvm.MahApps.Metro.csproj" />
+  </Folder>
+  <Folder Name="/Minimal.Mvvm.SourceGenerator/">
+    <Project Path="NuExt.Minimal.Mvvm.SourceGenerator/src/NuExt.Minimal.Mvvm.SourceGenerator.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.SourceGenerator/tests/NuExt.Minimal.Mvvm.SourceGenerator.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Minimal.Mvvm.Windows/">
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfAppSample/MovieWpfApp.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/src/NuExt.Minimal.Mvvm.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/Minimal.Mvvm/">
+    <Project Path="NuExt.Minimal.Mvvm/benchmarks/NuExt.Minimal.Mvvm.Benchmarks.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm/src/NuExt.Minimal.Mvvm.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm/src/NuExt.Minimal.Mvvm.Legacy.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm/tests/NuExt.Minimal.Mvvm.Tests.csproj" />
+  </Folder>
+  <Folder Name="/System.Data.SQLite/">
+    <Project Path="NuExt.System.Data.SQLite/samples/MoviesAppSample/MoviesAppSample.csproj" />
+    <Project Path="NuExt.System.Data.SQLite/src/NuExt.System.Data.SQLite.csproj" />
+    <Project Path="NuExt.System.Data.SQLite/tests/NuExt.System.Data.SQLite.Tests.csproj" />
+  </Folder>
+  <Folder Name="/System.Data/">
+    <Project Path="NuExt.System.Data/src/NuExt.System.Data.csproj" />
+    <Project Path="NuExt.System.Data/tests/NuExt.System.Data.Tests.csproj" />
+  </Folder>
+  <Folder Name="/System/">
+    <Project Path="NuExt.System/benchmarks/NuExt.System.Benchmarks.csproj" />
+    <Project Path="NuExt.System/src/NuExt.System.csproj" />
+    <Project Path="NuExt.System/tests/NuExt.System.Tests.csproj" />
+  </Folder>
+</Solution>
