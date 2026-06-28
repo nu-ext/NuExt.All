@@ -20,6 +20,10 @@
     <Project Path="NuExt.Minimal.Mvvm/src/NuExt.Minimal.Mvvm.Legacy.csproj" />
     <Project Path="NuExt.Minimal.Mvvm/tests/NuExt.Minimal.Mvvm.Tests.csproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+  </Folder>
   <Folder Name="/System.Data.SQLite/">
     <Project Path="NuExt.System.Data.SQLite/samples/MoviesAppSample/MoviesAppSample.csproj" />
     <Project Path="NuExt.System.Data.SQLite/src/NuExt.System.Data.SQLite.csproj" />
