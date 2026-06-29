@@ -22,3 +22,6 @@
 [submodule "NuExt.Minimal.Mvvm.MahApps.Metro"]
 	path = NuExt.Minimal.Mvvm.MahApps.Metro
 	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.MahApps.Metro.git
+[submodule "NuExt.Presentation.Wpf"]
+	path = NuExt.Presentation.Wpf
+	url = https://github.com/nu-ext/NuExt.Presentation.Wpf.git

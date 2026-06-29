@@ -1,24 +1,35 @@
 <Solution>
   <Folder Name="/Minimal.Behaviors.Wpf/">
+    <Project Path="NuExt.Minimal.Behaviors.Wpf/benchmarks/NuExt.Minimal.Behaviors.Wpf.Benchmarks.csproj" />
+    <Project Path="NuExt.Minimal.Behaviors.Wpf/samples/WpfBehaviorsSample/WpfBehaviorsSample.csproj" />
     <Project Path="NuExt.Minimal.Behaviors.Wpf/src/NuExt.Minimal.Behaviors.Wpf.csproj" />
+    <Project Path="NuExt.Minimal.Behaviors.Wpf/tests/NuExt.Minimal.Behaviors.Wpf.Tests.csproj" />
   </Folder>
   <Folder Name="/Minimal.Mvvm.MahApps.Metro/">
     <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/samples/MetroWpfApp/MovieWpfApp.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/src/NuExt.Minimal.Mvvm.MahApps.Metro.csproj" />
   </Folder>
   <Folder Name="/Minimal.Mvvm.SourceGenerator/">
+    <Project Path="NuExt.Minimal.Mvvm.SourceGenerator/samples/WpfAppSample/WpfAppSample.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.SourceGenerator/src/NuExt.Minimal.Mvvm.SourceGenerator.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.SourceGenerator/tests/NuExt.Minimal.Mvvm.SourceGenerator.Tests.csproj" />
   </Folder>
-  <Folder Name="/Minimal.Mvvm.Windows/">
+  <Folder Name="/Minimal.Mvvm.Wpf/">
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/benchmarks/NuExt.Minimal.Mvvm.Wpf.Benchmarks.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfAppSample/MovieWpfApp.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfMultiThreadedApp/WpfMultiThreadedApp.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/src/NuExt.Minimal.Mvvm.Wpf.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/tests/NuExt.Minimal.Mvvm.Wpf.Tests.csproj" />
   </Folder>
   <Folder Name="/Minimal.Mvvm/">
     <Project Path="NuExt.Minimal.Mvvm/benchmarks/NuExt.Minimal.Mvvm.Benchmarks.csproj" />
     <Project Path="NuExt.Minimal.Mvvm/src/NuExt.Minimal.Mvvm.csproj" />
     <Project Path="NuExt.Minimal.Mvvm/src/NuExt.Minimal.Mvvm.Legacy.csproj" />
     <Project Path="NuExt.Minimal.Mvvm/tests/NuExt.Minimal.Mvvm.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Presentation.Wpf/">
+    <Project Path="NuExt.Presentation.Wpf/src/NuExt.Presentation.Wpf.csproj" />
+    <Project Path="NuExt.Presentation.Wpf/tests/NuExt.Presentation.Wpf.Tests.csproj" />
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path="Directory.Build.props" />
