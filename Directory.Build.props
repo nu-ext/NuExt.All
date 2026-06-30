@@ -1,5 +1,5 @@
 <Project>
   <PropertyGroup>
-    <NuExt_UseLocalProjects>false</NuExt_UseLocalProjects>
+    <NuExt_UseLocalProjects>true</NuExt_UseLocalProjects>
   </PropertyGroup>
 </Project>
