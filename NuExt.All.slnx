@@ -49,4 +49,7 @@
     <Project Path="NuExt.System/src/NuExt.System.csproj" />
     <Project Path="NuExt.System/tests/NuExt.System.Tests.csproj" />
   </Folder>
+  <Folder Name="/Tools/">
+    <Project Path="NuExt.Tools/src/NuExt.Tools.ProjectMerger/NuExt.Tools.ProjectMerger.csproj" />
+  </Folder>
 </Solution>

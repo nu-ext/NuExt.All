@@ -25,3 +25,6 @@
 [submodule "NuExt.Presentation.Wpf"]
 	path = NuExt.Presentation.Wpf
 	url = https://github.com/nu-ext/NuExt.Presentation.Wpf.git
+[submodule "NuExt.Tools"]
+	path = NuExt.Tools
+	url = https://github.com/nu-ext/NuExt.Tools.git

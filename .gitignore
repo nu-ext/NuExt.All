@@ -56,3 +56,4 @@ nunit-*.xml
 .vs/
 MyKey.snk
 /pp.xml
+*-merged.txt

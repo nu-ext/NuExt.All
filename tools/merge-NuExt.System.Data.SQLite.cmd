@@ -1,3 +1,5 @@
 @echo off
-dotnet run merge.cs "..\NuExt.System.Data.SQLite\src"
+pushd "%~dp0"
+dotnet nuext-merge "..\NuExt.System.Data.SQLite\src"
+popd
 pause

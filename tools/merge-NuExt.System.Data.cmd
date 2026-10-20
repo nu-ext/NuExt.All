@@ -1,3 +1,5 @@
 @echo off
-dotnet run merge.cs "..\NuExt.System.Data\src" ".cs" --single
+pushd "%~dp0"
+dotnet nuext-merge "..\NuExt.System.Data\src" ".cs" --single
+popd
 pause
