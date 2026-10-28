@@ -17,6 +17,7 @@
   <Folder Name="/Minimal.Mvvm.Wpf/">
     <Project Path="NuExt.Minimal.Mvvm.Wpf/benchmarks/NuExt.Minimal.Mvvm.Wpf.Benchmarks.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfAppSample/MovieWpfApp.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfMinimalApp/WpfMinimalApp.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/samples/WpfMultiThreadedApp/WpfMultiThreadedApp.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/src/NuExt.Minimal.Mvvm.Wpf.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.Wpf/tests/NuExt.Minimal.Mvvm.Wpf.Tests.csproj" />
