@@ -28,3 +28,6 @@
 [submodule "NuExt.Tools"]
 	path = NuExt.Tools
 	url = https://github.com/nu-ext/NuExt.Tools.git
+[submodule "NuExt.Minimal.Mvvm.AvalonDock"]
+	path = NuExt.Minimal.Mvvm.AvalonDock
+	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.AvalonDock.git

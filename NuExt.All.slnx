@@ -5,6 +5,9 @@
     <Project Path="NuExt.Minimal.Behaviors.Wpf/src/NuExt.Minimal.Behaviors.Wpf.csproj" />
     <Project Path="NuExt.Minimal.Behaviors.Wpf/tests/NuExt.Minimal.Behaviors.Wpf.Tests.csproj" />
   </Folder>
+  <Folder Name="/Minimal.Mvvm.AvalonDock/">
+    <Project Path="NuExt.Minimal.Mvvm.AvalonDock/src/NuExt.Minimal.Mvvm.AvalonDock.csproj" />
+  </Folder>
   <Folder Name="/Minimal.Mvvm.MahApps.Metro/">
     <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/samples/MetroWpfApp/MovieWpfApp.csproj" />
     <Project Path="NuExt.Minimal.Mvvm.MahApps.Metro/src/NuExt.Minimal.Mvvm.MahApps.Metro.csproj" />
