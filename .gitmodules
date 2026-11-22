@@ -1,33 +1,39 @@
 [submodule "NuExt.System"]
 	path = NuExt.System
-	url = https://github.com/nu-ext/NuExt.System.git
+	url = git@github.com:nu-ext/NuExt.System.git
 [submodule "NuExt.System.Data"]
 	path = NuExt.System.Data
-	url = https://github.com/nu-ext/NuExt.System.Data.git
+	url = git@github.com:nu-ext/NuExt.System.Data.git
 [submodule "NuExt.System.Data.SQLite"]
 	path = NuExt.System.Data.SQLite
-	url = https://github.com/nu-ext/NuExt.System.Data.SQLite.git
+	url = git@github.com:nu-ext/NuExt.System.Data.SQLite.git
 [submodule "NuExt.Minimal.Mvvm"]
 	path = NuExt.Minimal.Mvvm
-	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.git
+[submodule "NuExt.Minimal.Mvvm.Desktop"]
+	path = NuExt.Minimal.Mvvm.Desktop
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.Desktop.git
+[submodule "NuExt.Minimal.Mvvm.Desktop.Persistence"]
+	path = NuExt.Minimal.Mvvm.Desktop.Persistence
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.Desktop.Persistence.git
 [submodule "NuExt.Minimal.Mvvm.SourceGenerator"]
 	path = NuExt.Minimal.Mvvm.SourceGenerator
-	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.SourceGenerator.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.SourceGenerator.git
 [submodule "NuExt.Minimal.Behaviors.Wpf"]
 	path = NuExt.Minimal.Behaviors.Wpf
-	url = https://github.com/nu-ext/NuExt.Minimal.Behaviors.Wpf.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Behaviors.Wpf.git
 [submodule "NuExt.Minimal.Mvvm.Wpf"]
 	path = NuExt.Minimal.Mvvm.Wpf
-	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.Wpf.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.Wpf.git
 [submodule "NuExt.Minimal.Mvvm.MahApps.Metro"]
 	path = NuExt.Minimal.Mvvm.MahApps.Metro
-	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.MahApps.Metro.git
-[submodule "NuExt.Presentation.Wpf"]
-	path = NuExt.Presentation.Wpf
-	url = https://github.com/nu-ext/NuExt.Presentation.Wpf.git
-[submodule "NuExt.Tools"]
-	path = NuExt.Tools
-	url = https://github.com/nu-ext/NuExt.Tools.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.MahApps.Metro.git
 [submodule "NuExt.Minimal.Mvvm.AvalonDock"]
 	path = NuExt.Minimal.Mvvm.AvalonDock
-	url = https://github.com/nu-ext/NuExt.Minimal.Mvvm.AvalonDock.git
+	url = git@github.com:nu-ext/NuExt.Minimal.Mvvm.AvalonDock.git
+[submodule "NuExt.Presentation.Wpf"]
+	path = NuExt.Presentation.Wpf
+	url = git@github.com:nu-ext/NuExt.Presentation.Wpf.git
+[submodule "NuExt.Tools"]
+	path = NuExt.Tools
+	url = git@github.com:nu-ext/NuExt.Tools.git
