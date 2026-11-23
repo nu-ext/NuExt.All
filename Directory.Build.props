@@ -1,5 +1,6 @@
 <Project>
   <PropertyGroup>
     <NuExt_UseLocalProjects>true</NuExt_UseLocalProjects>
+    <AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
   </PropertyGroup>
 </Project>
