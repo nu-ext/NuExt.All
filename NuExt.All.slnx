@@ -7,6 +7,7 @@
   </Folder>
   <Folder Name="/Minimal.Mvvm.AvalonDock/">
     <Project Path="NuExt.Minimal.Mvvm.AvalonDock/src/NuExt.Minimal.Mvvm.AvalonDock.csproj" />
+    <Project Path="NuExt.Minimal.Mvvm.AvalonDock/tests/NuExt.Minimal.Mvvm.AvalonDock.Tests.csproj" />
   </Folder>
   <Folder Name="/Minimal.Mvvm.Desktop/">
     <Project Path="NuExt.Minimal.Mvvm.Desktop.Persistence/src/NuExt.Minimal.Mvvm.Desktop.Persistence.csproj" />
